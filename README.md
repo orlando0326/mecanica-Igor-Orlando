@@ -27,7 +27,7 @@ Backend e banco
 
 - Lista de Rotas
 
-Contextualização:
+## Contextualização:
 
 A oficina mecânica mecanica-nome1-nome2 não tem sistema informatizado. Tudo é controlado manualmente, e isso gera problemas: agendamentos perdidos, informações duplicadas e dados guardados de forma insegura. O CPF dos clientes, por exemplo, fica exposto, o que pode fazer a empresa descumprir a LGPD.
 
@@ -35,52 +35,52 @@ Por isso, o gestor contratou a equipe (Igor e Orlando) para criar um software qu
 
 Resumindo: o objetivo é trocar o controle no papel por um sistema web organizado, seguro e fácil de manter.
 
-Equipamentos Ultilizados:
+## Equipamentos Ultilizados:
 
-Para o backend (a parte que faz o sistema funcionar por trás):
+# Para o backend (a parte que faz o sistema funcionar por trás):
 
 C# — linguagem principal para criar a API, o login e a criptografia dos dados.
 SQL — para criar e manipular o banco de dados.
 
-Para o frontend (a parte que o usuário vê e usa):
+# Para o frontend (a parte que o usuário vê e usa):
 
 HTML — estrutura das páginas.
 CSS — aparência e estilo.
 
 JavaScript — interações, como a busca de clientes e a atualização das listas.
 
-Banco de dados:
+# Banco de dados:
 SQL Server, PostgreSQL ou MySQL — um desses para guardar os dados.
 
-Ferramentas de trabalho:
+# Ferramentas de trabalho:
 
 Visual Studio ou VS Code — para escrever o código.
 Git — para controlar as versões do projeto.
 Draw.io ou brModelo — para desenhar o DER (diagrama do banco).
 
-API Controllers e Rotas, Feito no Site BRMW
+## API Controllers e Rotas, Feito no Site BRMW:
 
 <img width="822" height="599" alt="image" src="https://github.com/user-attachments/assets/90e69a01-a6aa-4a4f-967d-9dd76d5de780" />
 
-Linguagens e Tecnologias Necessárias:
+## Linguagens e Tecnologias Necessárias:
 
 C# — backend (API, login, criptografia dos dados).
 SQL — banco de dados (criação das tabelas, consultas, registros).
 HTML, CSS e JavaScript — frontend (as telas que o usuário usa).
 
-Banco de Dados:
+## Banco de Dados:
 SQL Server
 
-ferramentas:
+##ferramentas:
 -Visual Studios  
 -VS Code
 -Git
 -BRMW - para fazer o modelo dos controlers
 
-Equipamento:
+##Equipamento:
 computador com acesso a Internet, teclado mouse e monitor.
 
-Regras de Negócios nos qual devemos seguir - Tiradas da atividade classroom:
+## Regras de Negócios nos qual devemos seguir - Tiradas da atividade classroom:
 
 1. Dados iniciais
 O script do banco precisa ter pelo menos 3 registros em cada tabela, respeitando os tipos de dados, as chaves primárias e as chaves estrangeiras.
