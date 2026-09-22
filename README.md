@@ -58,6 +58,8 @@ Visual Studio ou VS Code — para escrever o código.
 Git — para controlar as versões do projeto.
 Draw.io ou brModelo — para desenhar o DER (diagrama do banco).
 
+API Controllers e Rotas, Feito no Site BRMW
+
 <img width="822" height="599" alt="image" src="https://github.com/user-attachments/assets/90e69a01-a6aa-4a4f-967d-9dd76d5de780" />
 
 Linguagens e Tecnologias Necessárias:
