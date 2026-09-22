@@ -37,7 +37,7 @@ Resumindo: o objetivo é trocar o controle no papel por um sistema web organizad
 
 ## Equipamentos Ultilizados:
 
-# Para o backend (a parte que faz o sistema funcionar por trás):
+## Para o backend (a parte que faz o sistema funcionar por trás):
 
 C# — linguagem principal para criar a API, o login e a criptografia dos dados.
 SQL — para criar e manipular o banco de dados.
@@ -49,10 +49,10 @@ CSS — aparência e estilo.
 
 JavaScript — interações, como a busca de clientes e a atualização das listas.
 
-# Banco de dados:
+## Banco de dados:
 SQL Server, PostgreSQL ou MySQL — um desses para guardar os dados.
 
-# Ferramentas de trabalho:
+## Ferramentas de trabalho:
 
 Visual Studio ou VS Code — para escrever o código.
 Git — para controlar as versões do projeto.
