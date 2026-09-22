@@ -42,7 +42,7 @@ Resumindo: o objetivo é trocar o controle no papel por um sistema web organizad
 C# — linguagem principal para criar a API, o login e a criptografia dos dados.
 SQL — para criar e manipular o banco de dados.
 
-# Para o frontend (a parte que o usuário vê e usa):
+## Para o frontend (a parte que o usuário vê e usa):
 
 HTML — estrutura das páginas.
 CSS — aparência e estilo.
